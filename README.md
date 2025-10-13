@@ -8,4 +8,6 @@
   <img src="https://img.shields.io/badge/license-GPLv3-green" alt="License"/>
 </div>
 
+---
+
 ## Publish Later
