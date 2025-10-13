@@ -1,7 +1,11 @@
-# Quaton – A third-party tool for downloading miHoYo games.
-
-![Quaton](./github/QuatonLogo.svg)
-
-[![Build Status](https://img.shields.io/badge/build-CMake-blue)]()[![License](https://img.shields.io/badge/license-GPLv3-green)]()
+<p align="center">
+  <img src="./github/QuatonLogo.svg" alt="Quaton Logo" />
+</p>
+<p align="center">
+  Quaton – A third-party tool for downloading miHoYo games.
+</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/license-GPLv3-green" alt="License"/>
+</div>
 
 ## Publish Later

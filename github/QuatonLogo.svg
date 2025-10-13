@@ -6,7 +6,7 @@ QuatonLogo.svg
 @description: Logo for Quaton Downloader
 License: GPL-3.0
 -->
-<svg id="a" data-name="QuatonLogo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150.03 46.04">
+<svg id="a" data-name="QuatonLogo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470.59 50">
   <metadata>
     Font Attribution:
     - Cascadia Code
@@ -27,29 +27,35 @@ License: GPL-3.0
         fill: #45b299;
       }
 
-      .o {
-        fill: #70b299;
+      .o, .p {
+        fill: none;
       }
 
       .p {
-        fill: none;
         stroke: #70a199;
         stroke-miterlimit: 10;
-        stroke-width: 7px;
+        stroke-width: 1.8px;
+      }
+
+      .q {
+        fill: #70b299;
       }
     </style>
   </defs>
-  <text id="b" data-name="LogoText" class="m" transform="translate(43.17 17.98)"><tspan x="0" y="0">Quaton</tspan><tspan x="0" y="20.13">Downloader</tspan></text>
-  <g id="c" data-name="QuatonGraphics">
-    <g id="d" data-name="_x32_">
-      <circle id="e" data-name="_x35_" class="o" cx="3.64" cy="29.38" r="3.61"/>
-      <circle id="f" data-name="_x34_" class="o" cx="3.64" cy="12.51" r="3.61"/>
-      <circle id="g" data-name="_x33_" class="o" cx="18.1" cy="4.32" r="3.61"/>
-      <circle id="h" data-name="_x32_" class="o" cx="32.63" cy="12.63" r="3.61"/>
-      <circle id="i" data-name="_x31_" class="o" cx="32.63" cy="29.5" r="3.61"/>
-      <circle id="j" data-name="_x30_" class="o" cx="18.17" cy="37.69" r="3.61"/>
+  <g>
+    <text id="b" data-name="LogoText" class="m" transform="translate(203.43 19.6)"><tspan x="0" y="0">Quaton</tspan><tspan x="0" y="20.13">Downloader</tspan></text>
+    <g id="c" data-name="QuatonGraphics">
+      <g id="d" data-name="_x32_">
+        <circle id="e" data-name="_x35_" class="q" cx="163.91" cy="31" r="3.61"/>
+        <circle id="f" data-name="_x34_" class="q" cx="163.91" cy="14.14" r="3.61"/>
+        <circle id="g" data-name="_x33_" class="q" cx="178.36" cy="5.95" r="3.61"/>
+        <circle id="h" data-name="_x32_" class="q" cx="192.89" cy="14.26" r="3.61"/>
+        <circle id="i" data-name="_x31_" class="q" cx="192.89" cy="31.12" r="3.61"/>
+        <circle id="j" data-name="_x30_" class="q" cx="178.44" cy="39.31" r="3.61"/>
+      </g>
+      <polygon id="k" data-name="_x31_" class="p" points="192.67 30.7 192.67 14.01 178.22 5.66 163.77 14.01 163.77 30.7 178.22 39.04 192.67 30.7"/>
+      <path id="l" data-name="_x30_" class="n" d="M173.75,21.33l-4.93-4.28,6.17,2.13h6.58l6.17-2.13-4.93,4.28-3.29,5.7-1.24,6.41-1.24-6.41-3.29-5.7Z"/>
     </g>
-    <polygon id="k" data-name="_x31_" class="p" points="32.41 29.08 32.41 12.39 17.95 4.04 3.5 12.39 3.5 29.08 17.95 37.42 32.41 29.08"/>
-    <path id="l" data-name="_x30_" class="n" d="M13.49,19.7l-4.93-4.28,6.17,2.13h6.58l6.17-2.13-4.93,4.28-3.29,5.7-1.24,6.41-1.24-6.41-3.29-5.7Z"/>
   </g>
+  <rect class="o" width="470.59" height="50"/>
 </svg>
