@@ -5,9 +5,9 @@
   Quaton – A third-party tool for downloading miHoYo games.
 </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/license-GPLv3-green" alt="License"/>
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
 </div>
 
 ---
 
-## PUBLISH TODAY
+## Open source in this week, License changed to MIT.
